@@ -15,4 +15,5 @@ class Solution(object):
                 num = num / 10         
             if rev_digit == x: 
                 return True 
-        
+			else:
+				return False 
